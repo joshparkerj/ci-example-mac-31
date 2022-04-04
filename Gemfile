@@ -72,3 +72,9 @@ group :test do
 end
 
 gem "pg", "~> 1.3"
+
+gem "bundler-audit", "~> 0.9.0"
+
+gem "brakeman", "~> 5.2"
+
+gem "rubocop", "~> 1.26"
