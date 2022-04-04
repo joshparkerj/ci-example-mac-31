@@ -4,3 +4,4 @@ AllCops:
     - 'bin/bundle'
     - 'vendor/bundle'
     - 'db/schema.rb'
+    - vendor/**/*.rb
